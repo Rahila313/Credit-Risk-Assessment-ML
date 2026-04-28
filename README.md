@@ -31,10 +31,10 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## Visualizations
 
-![Feature Importance](images/plot_feature_importance.png)
-![ROC Curve](images/plot_roc_curve.png)
 ![Default by Grade](images/plot6_default_by_grade.png)
 ![Default by Intent](images/plot7_default_by_intent.png)
 ![Loan Percent Income](images/plot8_loan_percent_income.png)
 ![Interest Rate Boxplot](images/plot3_interest_rate_boxplot.png)
+![Feature Importance](images/plot_feature_importance.png)
+![ROC Curve](images/plot_roc_curve.png)
 ![Confusion Matrices](images/plot11_confusion_matrices.png)
