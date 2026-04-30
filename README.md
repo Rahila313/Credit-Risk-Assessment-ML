@@ -1,7 +1,7 @@
 # Credit Risk Assessment: Predicting Loan Default with Machine Learning
 
 ## Overview
-This project analyzes a dataset of 32,574 loan applications to predict whether a borrower will default on their loan. Using machine learning models, we identify key financial factors that contribute to loan default risk.
+This project analyzes a dataset of 32,574 loan applications to predict whether a borrower will default on their loan. Using machine learning models, I identify key financial factors that contribute to loan default risk.
 
 ## Models Used
 | Model | Accuracy | AUC |
