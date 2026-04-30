@@ -8,7 +8,7 @@ This project analyzes a dataset of 32,574 loan applications to predict whether a
 |-------|----------|-----|
 | Logistic Regression | 85% | 0.85 |
 | Decision Tree | 91% | 0.90 |
-| Random Forest | 93% | 0.94 ✅ Best |
+| Random Forest | 93% | 0.94 Best Model |
 
 ## Key Findings
 - Loan percent income is the strongest predictor of default
